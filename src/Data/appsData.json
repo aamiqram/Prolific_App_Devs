@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.forestapp.cc/img/icon.png",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Productive.io",
+    "description": "Stay focused and present. Whenever you want to concentrate, plant a tree. If you commit to your task, the tree will grow; if you can't resist the temptation of using your phone, your tree will wither.",
+    "size": 125,
+    "reviews": 124000,
+    "ratingAvg": 4.9,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 21600 },
+      { "name": "5 star", "count": 96000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://image.winudf.com/v2/image1/Y29tLm1nLnNtcGxhbl9pY29uXzE2ODcxODg1MjNfMDk1/icon.webp?w=120&fakeurl=1&type=.webp",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "CreativeApps",
+    "description": "A unique feature of this app is the integration of task lists with timers. You can assign each task to a specific Pomodoro session, making your schedule more structured.",
+    "size": 98,
+    "reviews": 54000,
+    "ratingAvg": 4.8,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 15900 },
+      { "name": "5 star", "count": 33950 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://images.sftcdn.net/images/t_app-icon-s/p/fba93726-1ce2-4680-bb57-cdf484c3a89e/2668023418/flip-focus-timer-for-study-logo",
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "StudyHard Inc.",
+    "description": "Measure your study time and improve your habits. FLIP helps you track your progress with detailed analytics and a real-time focus timer.",
+    "size": 155,
+    "reviews": 78000,
+    "ratingAvg": 4.7,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 21100 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://play-lh.googleusercontent.com/2-coFiL20JMqVh6mWWyn1ZpkOxn90NGYkLSvj5lxlk6yBBucC5LpcLS0G_pq3xG8owbN=w96",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "PixelPaws",
+    "description": "Boost your productivity with a charming cat-themed Pomodoro timer. Complete focus sessions to earn fish and accessorize your digital cat companion.",
+    "size": 85,
+    "reviews": 32000,
+    "ratingAvg": 4.9,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 22000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://images.sftcdn.net/images/t_app-icon-s/p/a955bbf0-9633-11e8-9fd9-0242ac12000d/2114645456/time-planner-schedule-todo-list-time-tracker-logo",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "Productive.io",
+    "description": "A visual time blocking planner that helps you manage your tasks, appointments, and daily schedule in one place. See your day at a glance.",
+    "size": 110,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1500 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 24000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://play-lh.googleusercontent.com/kfpAxLPDEfpr3-uMNfHy8Xf4EmQZ-GvqhnOlytzM90j-3phnjAuHVreoo_ldEA8QGA=w240-h480-rw",
+    "title": "Morning Habits - Daily Routine",
+    "companyName": "FlowState Inc.",
+    "description": "Build a better morning routine. Track your habits, set goals, and start your day with intention and energy. Includes guided meditations and journaling prompts.",
+    "size": 210,
+    "reviews": 68000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 3900 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 45000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://images.sftcdn.net/images/t_app-icon-s/p/a9c02279-a1fb-4f8d-aa77-ff80f36c4153/3607588305/focus-plant-pomodoro-forest-logo",
+    "title": "Focus Plant: Pomodoro Forest",
+    "companyName": "CreativeApps",
+    "description": "Gamify your focus sessions. Grow beautiful plants and build your own vibrant forest by avoiding distractions and staying on task.",
+    "size": 180,
+    "reviews": 95000,
+    "ratingAvg": 4.9,
+    "downloads": 7000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 63500 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://images.sftcdn.net/images/t_app-icon-s/p/2543aafa-51ad-11e7-8531-0f99256da503/940437293/alarmy-sleep-if-u-can-alarm-logo",
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "companyName": "Quantum Code",
+    "description": "The alarm clock for heavy sleepers. Complete missions like solving math problems or shaking your phone to turn off the alarm and wake up your brain.",
+    "size": 130,
+    "reviews": 210000,
+    "ratingAvg": 4.7,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 60000 },
+      { "name": "5 star", "count": 129000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "title": "Notion - Notes, docs, tasks",
+    "companyName": "Notion Labs, Inc.",
+    "description": "The all-in-one workspace for your notes, tasks, wikis, and databases. Notion is all you need to write, plan, and get organized.",
+    "size": 75,
+    "reviews": 150000,
+    "ratingAvg": 4.6,
+    "downloads": 20000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 4500 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 45000 },
+      { "name": "5 star", "count": 80000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://lh3.googleusercontent.com/zqKRvf52hI5Yk6N5C8k6NJnDT7bsEW6whE3wf1UqfpES79AtnrO2ykLgqwciE-bca6QghdXNFJDYe_9xO6iYsvK7=s60",
+    "title": "Todoist: To-Do List & Planner",
+    "companyName": "Doist",
+    "description": "Trusted by millions, Todoist is the best online to-do list and task manager. Get organized, stay motivated, and achieve peace of mind.",
+    "size": 88,
+    "reviews": 180000,
+    "ratingAvg": 4.8,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 55000 },
+      { "name": "5 star", "count": 108500 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.sftcdn.net/images/t_app-icon-s/p/e9916270-fd4e-427f-8584-954483ba54e6/3669187116/trello-icon.png",
+    "title": "Trello: Organize anything!",
+    "companyName": "Atlassian",
+    "description": "Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking.",
+    "size": 65,
+    "reviews": 90000,
+    "ratingAvg": 4.5,
+    "downloads": 12000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800 },
+      { "name": "2 star", "count": 3200 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://store-images.s-microsoft.com/image/apps.529.659e01a5-260e-46c3-a228-5e2516a48a18.953a1a9d-2322-4e15-b0e5-389eb3d6a446.c4d36494-da07-486a-8cc9-8b13ffb30df0.png",
+    "title": "TickTick: To-do list & Planner",
+    "companyName": "Appest Inc.",
+    "description": "A simple and effective to-do list and task manager app which helps you make schedule, manage time, stay focused, and organize life.",
+    "size": 105,
+    "reviews": 110000,
+    "ratingAvg": 4.9,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 28000 },
+      { "name": "5 star", "count": 74000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://cdn6.aptoide.com/imgs/d/3/f/d3f4fabe04f85e10559530d5ca3fd495_icon.png?w=128",
+    "title": "Habitica: Gamify Your Tasks",
+    "companyName": "HabitRPG, Inc.",
+    "description": "Treat your life like a game to stay motivated and organized. Habitica makes it simple to have fun while accomplishing goals.",
+    "size": 55,
+    "reviews": 75000,
+    "ratingAvg": 4.4,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 11000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 38000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://cdn6.aptoide.com/imgs/6/2/2/622d27e2701e6ae45e8881da20e31fc3_icon.png?w=128",
+    "title": "Calm - Sleep, Meditate, Relax",
+    "companyName": "Calm.com, Inc.",
+    "description": "Find your calm. Sleep more, stress less and live better with our guided meditations, Sleep Stories, breathing programs, and relaxing music.",
+    "size": 190,
+    "reviews": 250000,
+    "ratingAvg": 4.8,
+    "downloads": 16000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 70000 },
+      { "name": "5 star", "count": 156000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://play-lh.googleusercontent.com/uAZcbs5DzG8xKGHt6bTPXtnvtc9zlwr-JbB53Um7cD8LKRTA8Ek1sO6EiUoHLpWNWw=w100-h100-rw",
+    "title": "Headspace: Mindful Meditation",
+    "companyName": "Headspace Inc.",
+    "description": "Meditation and mindfulness for any mind, any mood, any goal. With Headspace, you can learn to manage stress and anxiety, and sleep better.",
+    "size": 220,
+    "reviews": 230000,
+    "ratingAvg": 4.9,
+    "downloads": 14000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 65000 },
+      { "name": "5 star", "count": 145500 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://s.cafebazaar.ir/images/icons/com.myfitnesspal.android-795c0e07-37d9-471f-b9e1-4a4e6bc218c1_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
+    "title": "MyFitnessPal: Calorie Counter",
+    "companyName": "MyFitnessPal, Inc.",
+    "description": "Take control of your goals. Track calories, break down ingredients, and log activities with the world's #1 nutrition and calorie tracking app.",
+    "size": 145,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 25000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 250000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://s.cafebazaar.ir/images/icons/com.evernote-e7fdfb63-c170-4033-8a0b-3cdeff0b694a_512x512.png?x-img=v1/resize,h_256,w_256,lossless_false/optimize",
+    "title": "Evernote - Note Organizer",
+    "companyName": "Evernote Corporation",
+    "description": "Capture ideas and inspiration from anywhere. Bring your notes, to-dos, and schedule together to tame life’s distractions and accomplish more.",
+    "size": 160,
+    "reviews": 190000,
+    "ratingAvg": 4.3,
+    "downloads": 13000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 9000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 51000 },
+      { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://cdn6.aptoide.com/imgs/b/4/a/b4adb1fac7b2b88eb01d3a08c991f588_icon.png",
+    "title": "Fabulous: Daily Habit Tracker",
+    "companyName": "TheFabulous",
+    "description": "Unlock the power of habits. Born at Duke University, Fabulous is a science-based app that will help you build healthy rituals into your life.",
+    "size": 250,
+    "reviews": 130000,
+    "ratingAvg": 4.7,
+    "downloads": 8000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 3500 },
+      { "name": "3 star", "count": 10000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 75000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://play-lh.googleusercontent.com/SWbS8z3NqFVHCEQc_6l-ZDdDj5qPGrWSK8hEWRSPHYm9s8958y6nTnoLolVHXlgKfXw",
+    "title": "Asana: Work in one place",
+    "companyName": "Asana, Inc.",
+    "description": "Move work forward. Asana is the easiest way for teams to track their work and get results. From tasks and projects to conversations and notifications.",
+    "size": 95,
+    "reviews": 85000,
+    "ratingAvg": 4.6,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 8500 },
+      { "name": "4 star", "count": 23000 },
+      { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://image.winudf.com/v2/image1/Y28ubWFuZ290ZWNobm9sb2dpZXMuY2xpY2t1cF9pY29uXzE2MDg2NTcyNDhfMDQx/icon.webp?w=140&fakeurl=1&type=.webp",
+    "title": "ClickUp: Manage Teams & Tasks",
+    "companyName": "ClickUp",
+    "description": "One app to replace them all. ClickUp is the customizable workplace productivity platform that serves all departments, from sales to marketing.",
+    "size": 175,
+    "reviews": 92000,
+    "ratingAvg": 4.7,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 2800 },
+      { "name": "3 star", "count": 9000 },
+      { "name": "4 star", "count": 25000 },
+      { "name": "5 star", "count": 54000 }
+    ]
+  }
+]
