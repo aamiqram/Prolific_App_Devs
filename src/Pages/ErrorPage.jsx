@@ -1,13 +1,13 @@
 import React from "react";
 import Footer from "../Components/Footer";
-import Navbar from "../Components/Header";
 import { Link, useRouteError } from "react-router";
 import error404Image from "../assets/Images/error-404.png";
+import Header from "../Components/Header";
 
 const ErrorPage = () => {
   return (
     <>
-      <Navbar />
+      <Header />
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content text-center">
           <div className="max-w-md">

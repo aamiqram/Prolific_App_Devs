@@ -2,7 +2,7 @@ import React from "react";
 import { Link, NavLink } from "react-router";
 import logoImage from "../assets/Images/logo.png";
 
-const Navbar = () => {
+const Header = () => {
   return (
     <nav className="bg-base-200 shadow-sm w-full">
       <div className="navbar container mx-auto">
@@ -125,4 +125,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default Header;
