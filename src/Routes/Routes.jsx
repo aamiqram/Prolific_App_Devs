@@ -1,9 +1,10 @@
 import { createBrowserRouter } from "react-router";
-import Home from "../Pages/Home";
-import Products from "../Pages/Products";
 import MainLayout from "../Layouts/MainLayout";
+import Home from "../pages/Home";
+import AllApps from "../Pages/AllApps";
+import AppDetails from "../Pages/AppDetails";
+import MyInstallation from "../Pages/MyInstallation";
 import ErrorPage from "../Pages/ErrorPage";
-import Wishlist from "../Pages/Wishlist";
 
 const router = createBrowserRouter([
   {
@@ -11,23 +12,12 @@ const router = createBrowserRouter([
     element: <MainLayout />,
     errorElement: <ErrorPage />,
     children: [
-      {
-        index: true,
-        element: <Home />,
-      },
-      {
-        path: "/products",
-        element: <Products />,
-      },
-      {
-        path: "/wishlist",
-        element: <Wishlist />,
-      },
+      { index: true, element: <Home /> },
+      { path: "apps", element: <AllApps /> },
+      { path: "apps/:id", element: <AppDetails /> },
+      { path: "installation", element: <MyInstallation /> },
     ],
   },
-  // {
-  //    path: "*",
-  //    element: <ErrorPage />,
-  //  },
 ]);
+
 export default router;

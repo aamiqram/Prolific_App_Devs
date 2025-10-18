@@ -1,9 +1,10 @@
-import "./App.css";
+import { Toaster } from "react-hot-toast";
 
 function App() {
   return (
     <>
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
+      {/* Global toast notifications */}
+      <Toaster position="top-center" reverseOrder={false} />
     </>
   );
 }

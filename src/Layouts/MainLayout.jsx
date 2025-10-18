@@ -1,13 +1,15 @@
 import React from "react";
-import Navbar from "../Components/Navbar";
+import { Outlet } from "react-router-dom";
+import Header from "../Components/Header";
 import Footer from "../Components/Footer";
-import { Outlet } from "react-router";
 
 const MainLayout = () => {
   return (
-    <div>
-      <Navbar />
-      <Outlet />
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      <main className="flex-grow">
+        <Outlet /> {/* Pages will be rendered here */}
+      </main>
       <Footer />
     </div>
   );
