@@ -1,7 +1,5 @@
 # Prolific App Devs Marketplace 📱
 
-![Prolific App Devs Banner](https://via.placeholder.com/1200x300/3b82f6/ffffff?text=Prolific+App+Devs+-+Marketplace+for+Productivity+Apps)
-
 ## 🌐 Live Demo
 **[Visit Prolific App Devs →](https://prolific-app-devs.netlify.app)**
 
@@ -274,22 +272,6 @@ Backend-powered sorting for optimal performance:
 - Client-side array sorting for small datasets
 - Cached results for repeated sorts
 - Optimized re-renders with React.memo
-
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Add+Homepage+Screenshot)
-
-### App Listing
-![App List](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Add+App+Listing+Screenshot)
-
-### App Details
-![App Details](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Add+App+Details+Screenshot)
-
-### Installed Apps
-![Installed Apps](https://via.placeholder.com/800x400/3b82f6/ffffff?text=Add+Installed+Apps+Screenshot)
 
 ---
 
